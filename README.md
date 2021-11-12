@@ -7,12 +7,12 @@ Generate low-cost, high volumes of real-time primary data from smallholder farme
 Cost-effectively empowering smallholders with predictive AI-generated yield insights in actionable formats, for more effective planning, improved risk management, and increased resilience.
 
 
-En este repositorio está todas las herramientas de modelacion para el proyecto croppie.
+In this repository are all the modeling tools for the croppie project.
 
 
 
 # Folders :open_file_folder:
-- ODK. En esta carpeta estan los archivos para la instalación de encuesta de ODK para la toma de fotos.
+- ODK. In this folder are the files for the ODK survey installation for taking photos.
 - CODE. This folder contains all script used for detection beans of coffee
 -  
 
