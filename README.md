@@ -14,10 +14,10 @@ In this repository are all the modeling tools for the croppie project.
 # Folders :open_file_folder:
 - ODK. In this folder are the files for the ODK survey installation for taking photos.
 - CODE. This folder contains all script used for detection beans of coffee
--  
+- IMG  Reference Images 
 
 
 # Links
--- Como instalar y utilizar LabelImg.  https://www.youtube.com/watch?v=qQad6-grXsw&t=21s
+- How to install and use LabelImgg.  https://www.youtube.com/watch?v=qQad6-grXsw&t=21s
 
 
