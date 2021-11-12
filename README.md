@@ -1,6 +1,12 @@
 <img src="https://github.com/j-river1/Croppie/blob/main/IMG/logo_CIATIDEO.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
 # Croppie
+The project’s app, Croppie, will gamify real-time photo data collection from smallholders by incentivizing PhotoCropping, i.e. taking and sharing photos of their crops to:
+
+Generate low-cost, high volumes of real-time primary data from smallholder farmers that support AI/ML model training;
+Cost-effectively empowering smallholders with predictive AI-generated yield insights in actionable formats, for more effective planning, improved risk management, and increased resilience.
+
+
 En este repositorio está todas las herramientas de modelacion para el proyecto croppie.
 
 
