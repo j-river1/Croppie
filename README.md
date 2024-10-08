@@ -21,3 +21,6 @@ In this repository are all the modeling tools for the croppie project.
 - How to install and use LabelImgg.  https://www.youtube.com/watch?v=qQad6-grXsw&t=21s
 
 
+# Download and sharing data ⏬:
+
+- For sharing data from project. Please contact to Project Croppie. https://croppie.org/
